@@ -1,0 +1,108 @@
+{
+  "source": "v9 original rover; source materials and dimensions preserved",
+  "groups": 23,
+  "polygons": 298384,
+  "refined": [
+    "Reference lower camera enclosure",
+    "White tapered camera housing",
+    "Reference upper optical pod",
+    "Upper optical surround",
+    "Reference illumination element",
+    "Reference illumination element.001",
+    "Reference illumination element.002",
+    "Reference illumination element.003",
+    "Reference illumination element.004",
+    "Reference illumination element.005",
+    "Reference illumination element.006",
+    "Reference illumination element.007",
+    "Reference illumination element.008",
+    "Reference illumination element.009",
+    "Convex coated camera lens"
+  ],
+  "headPivot": [
+    -0.20999999344348907,
+    2.193000078201294,
+    0.5550000071525574
+  ],
+  "lens": [
+    {
+      "name": "White tapered camera housing",
+      "center": [
+        -0.21,
+        -0.555,
+        2.244
+      ],
+      "dimensions": [
+        0.18575,
+        0.18575,
+        0.115
+      ]
+    },
+    {
+      "name": "Upper lens bezel",
+      "center": [
+        -0.28328,
+        -0.59607,
+        2.358
+      ],
+      "dimensions": [
+        0.118,
+        0.118,
+        0.014
+      ]
+    },
+    {
+      "name": "Lens light trap",
+      "center": [
+        -0.28415,
+        -0.59655,
+        2.358
+      ],
+      "dimensions": [
+        0.056,
+        0.056,
+        0.016
+      ]
+    },
+    {
+      "name": "Iris aperture",
+      "center": [
+        -0.29549,
+        -0.60291,
+        2.358
+      ],
+      "dimensions": [
+        0.03,
+        0.03,
+        0.002
+      ]
+    },
+    {
+      "name": "Convex coated camera lens",
+      "center": [
+        -0.3016,
+        -0.60633,
+        2.358
+      ],
+      "dimensions": [
+        0.05,
+        0.012,
+        0.05
+      ]
+    },
+    {
+      "name": "V9 optical receiver lens barrel",
+      "center": [
+        0.105,
+        -0.42,
+        0.247
+      ],
+      "dimensions": [
+        0.046,
+        0.046,
+        0.03
+      ]
+    }
+  ],
+  "bytes": 3400872
+}
